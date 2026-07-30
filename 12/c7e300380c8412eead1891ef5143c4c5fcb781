@@ -1,0 +1,117 @@
+knowledge/a16z-consumer.md
+  s_620c473eb0fa6d::t_f5fa3922018af1 91-105
+  s_620c473eb0fa6d::t_a5496acbae91e2 138
+  s_620c473eb0fa6d::t_26293d216f9be1 84
+  s_620c473eb0fa6d::t_3b845c46eaf257 81-83
+  s_620c473eb0fa6d::t_77cb6e9b6d47fc 85-90
+  s_620c473eb0fa6d::t_908eee73935c32 106-108,135-137
+  s_620c473eb0fa6d::t_6cfb9bcb03419e 1-80,109-134
+knowledge/evan-spiegel.md
+  s_620c473eb0fa6d::t_a957b7241e2b8a 138
+  s_620c473eb0fa6d::t_3281cc9fc1dc78 135-137
+  s_620c473eb0fa6d::t_ec5e9423330955 139
+  s_620c473eb0fa6d::t_76cbfb78113014 1-134
+knowledge/mark-pincus.md
+  s_620c473eb0fa6d::t_28dee82e6c774c 117-118
+  s_620c473eb0fa6d::t_e38aa3036367f7 49-52
+  s_620c473eb0fa6d::t_9a7c61a2fa44b3 26-32
+  s_620c473eb0fa6d::t_c1d26e99b44057 23-25
+  s_620c473eb0fa6d::t_6ea207c0a1577e 33-35,46-48
+  s_620c473eb0fa6d::t_841cd9a0f971f0 53-55,114-116
+  s_620c473eb0fa6d::t_82645047836533 119-121
+  s_620c473eb0fa6d::t_fcc9ce8d7c13c4 1-22,36-45,56-113,122-148
+ingest/meta/index.tsv
+  s_620c473eb0fa6d::t_925106de1339e5 1-49
+ingest/vtt2txt.py
+  s_620c473eb0fa6d::t_f70b89028dcbe8 1-50
+setup
+  s_620c473eb0fa6d::t_b905a9b8f27020 1-46
+.gitignore
+  s_620c473eb0fa6d::t_a636a32324b692 1-6
+CLAUDE.md
+  s_620c473eb0fa6d::t_0ec66f159ad189 1-29
+LICENSE
+  s_620c473eb0fa6d::t_faa0a1ec1566f6 1-21
+README.md
+  s_620c473eb0fa6d::t_9b9c232b300bba 1-99
+VERSION
+  s_620c473eb0fa6d::t_c1b5594d461c04 1
+coach/SKILL.md
+  s_620c473eb0fa6d::t_dec8cae97d2253 1-54
+consumer-stack/SKILL.md
+  s_620c473eb0fa6d::t_41b28ae1f6e790 1-47
+growth-review/SKILL.md
+  s_620c473eb0fa6d::t_771d5cd37f1ae7 1-61
+ingest/DISTILL_BRIEF.md
+  s_620c473eb0fa6d::t_415f4dbb3782a6 1-40
+ingest/README.md
+  s_620c473eb0fa6d::t_2e73e5284abd3d 1-19
+ingest/video_ids.txt
+  s_620c473eb0fa6d::t_e035da4196e5ae 1-49
+knowledge/alex-zhu.md
+  s_620c473eb0fa6d::t_1e8c45aad1c476 1-78
+knowledge/alexis-barreyat.md
+  s_620c473eb0fa6d::t_a1698df4e9aa4f 1-47
+knowledge/antoine-martin.md
+  s_620c473eb0fa6d::t_436497157cccf2 1-98
+knowledge/brian-chesky.md
+  s_620c473eb0fa6d::t_8704f19c7c5bb0 1-103
+knowledge/cameron-adams.md
+  s_620c473eb0fa6d::t_b5ed280fdd5ac7 1-98
+knowledge/daniel-ek.md
+  s_620c473eb0fa6d::t_6157b49cae3ef8 1-102
+knowledge/david-lieb.md
+  s_620c473eb0fa6d::t_255275d5f06db6 1-86
+knowledge/dylan-field.md
+  s_620c473eb0fa6d::t_88ed6aac0966a5 1-83
+knowledge/gustav-soderstrom.md
+  s_620c473eb0fa6d::t_0853d453bdf0cd 1-107
+knowledge/julien-martin.md
+  s_620c473eb0fa6d::t_8da0d2b6ce8cdf 1-77
+knowledge/kevin-systrom.md
+  s_620c473eb0fa6d::t_bd88407a6cedae 1-229
+knowledge/luis-von-ahn.md
+  s_620c473eb0fa6d::t_ac9d9d2c3c8afb 1-91
+knowledge/melanie-perkins.md
+  s_620c473eb0fa6d::t_2b38d983ce5235 1-93
+knowledge/michael-skok.md
+  s_620c473eb0fa6d::t_600b7de308d366 1-98
+knowledge/nikita-bier.md
+  s_620c473eb0fa6d::t_bb16a09bd7b34e 1-98
+knowledge/nir-eyal.md
+  s_620c473eb0fa6d::t_330d95b1443a36 1-159
+knowledge/peter-thiel.md
+  s_620c473eb0fa6d::t_f5ace5e01ddc1c 1-78
+knowledge/will-ahmed.md
+  s_620c473eb0fa6d::t_f2d9a34c861ce4 1-60
+knowledge/yc-growth.md
+  s_620c473eb0fa6d::t_205d2510408f8c 1-141
+onboarding-review/SKILL.md
+  s_620c473eb0fa6d::t_094ca40f83c1ae 1-63
+panel/SKILL.md
+  s_620c473eb0fa6d::t_8c40c87077d5ad 1-81
+pitch/SKILL.md
+  s_620c473eb0fa6d::t_a07ece00598197 1-61
+product-review/SKILL.md
+  s_620c473eb0fa6d::t_b908b931d31017 1-60
+retention-review/SKILL.md
+  s_620c473eb0fa6d::t_17deb33a9fa24f 1-60
+wedge/SKILL.md
+  s_620c473eb0fa6d::t_d24f2eb98b7347 1-60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "12c7e300380c8412eead1891ef5143c4c5fcb781",
+  "prompts": {},
+  "sessions": {
+    "s_620c473eb0fa6d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af22d70a-b2f6-450c-81c5-aa1211200f8c",
+        "model": "claude-fable-5"
+      },
+      "human_author": "martinm-lang <martin.manne76@gmail.com>"
+    }
+  }
+}
