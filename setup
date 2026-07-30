@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+# consumer-stack setup — installs each skill as a slash command for Claude Code.
+# Modeled on garrytan/gstack's setup: per-skill directories in ~/.claude/skills
+# with a symlinked SKILL.md pointing back into this repo, so `git pull` updates
+# everything with no re-install.
+set -euo pipefail
+
+REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+SKILLS_ROOT="${CLAUDE_SKILLS_DIR:-$HOME/.claude/skills}"
+
+SKILLS=(
+  consumer-stack
+  panel
+  coach
+  retention-review
+  growth-review
+  onboarding-review
+  product-review
+  pitch
+  wedge
+)
+
+mkdir -p "$SKILLS_ROOT"
+
+installed=0
+for skill in "${SKILLS[@]}"; do
+  src="$REPO_DIR/$skill/SKILL.md"
+  if [ ! -f "$src" ]; then
+    echo "warn: $skill/SKILL.md not found, skipping" >&2
+    continue
+  fi
+  # The repo itself may live inside ~/.claude/skills — don't self-link the root.
+  dst_dir="$SKILLS_ROOT/$skill"
+  if [ "$dst_dir" = "$REPO_DIR/$skill" ]; then
+    installed=$((installed + 1))
+    continue
+  fi
+  mkdir -p "$dst_dir"
+  ln -snf "$src" "$dst_dir/SKILL.md"
+  installed=$((installed + 1))
+done
+
+echo "consumer-stack: $installed skills installed to $SKILLS_ROOT"
+echo
+echo "Commands: /panel /coach /retention-review /growth-review /onboarding-review /product-review /pitch /wedge"
+echo "Try: /panel — your product goes in front of the whole coach panel."

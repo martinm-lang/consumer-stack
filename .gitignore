@@ -1,0 +1,6 @@
+# Raw ingest artifacts are regenerable (see ingest/README.md) and stay out of git:
+# transcripts of third-party podcasts are not redistributed, only the distilled
+# playbooks in knowledge/ are versioned.
+ingest/subs/
+ingest/transcripts/
+.DS_Store
