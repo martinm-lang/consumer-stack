@@ -29,7 +29,7 @@ The coach **channels the publicly stated principles** of a real person, distille
 _SKILL_SRC=$(readlink -f "$HOME/.claude/skills/coach/SKILL.md" 2>/dev/null || echo "")
 STACK_DIR=$(cd "$(dirname "${_SKILL_SRC:-.}")/.." && pwd)
 echo "STACK_DIR: $STACK_DIR"
-echo "COACHES:"; ls "$STACK_DIR/knowledge" 2>/dev/null | sed 's/\.md$//'
+echo "COACHES:"; ls "$STACK_DIR/knowledge" 2>/dev/null | sed 's/\.md$//' | grep -v '^_'
 ```
 
 ## Step 1 — Resolve the coach

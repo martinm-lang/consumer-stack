@@ -6,6 +6,7 @@ This repo is a skill pack for Claude Code: consumer product coaching distilled f
 
 - `<skill>/SKILL.md` — one directory per slash command (panel, coach, retention-review, growth-review, onboarding-review, product-review, pitch, wedge, consumer-stack router)
 - `knowledge/*.md` — one playbook per coach: worldview, frameworks, heuristics, red flags, questions, voice. **This is the product.** Skills read these at runtime.
+- `knowledge/_synthesis.md` — pre-computed cross-coach consensus/tensions/metrics/gaps (underscore prefix excludes it from the coach-listing `ls` in skill preambles). Regenerate when playbooks are added or materially edited — read it in full, don't hand-patch it, since consensus/tension counts must stay accurate to what's actually in `knowledge/*.md`.
 - `ingest/` — reproducible pipeline (episode IDs, yt-dlp caption download, VTT→txt cleaning, distillation brief). Raw transcripts are gitignored, never committed.
 - `setup` — symlinks each skill into `~/.claude/skills/`.
 

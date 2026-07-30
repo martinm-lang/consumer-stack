@@ -34,6 +34,7 @@ echo "STACK_DIR: $STACK_DIR"
 ```
 
 ## The bench
+Also check `$STACK_DIR/knowledge/_synthesis.md` for pre-computed cross-coach consensus, live tensions and the metrics cheat-sheet — ground any numeric claim in it before stating a threshold, and reuse a named tension instead of re-deriving one.
 
 Read from `$STACK_DIR/knowledge/`: `nikita-bier.md` (virality as craft, seeding, invite mechanics), `yc-growth.md` (channel frameworks, first 10 customers), `alex-zhu.md` (cold-start, content networks), `mark-pincus.md` (metrics discipline, patterns), `cameron-adams.md` (unconventional levers), `a16z-consumer.md` (AI-era growth loops). Seat `evan-spiegel.md` if the fight involves incumbents copying you.
 

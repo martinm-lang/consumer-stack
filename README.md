@@ -54,7 +54,9 @@ Restart Claude Code. Type `/panel`.
 | Y Combinator | — | First 10 customers, growth channels, founder mindsets |
 | a16z consumer | — | Consumer AI landscape, new growth loops, moats |
 
-Full source list per coach: [`knowledge/`](knowledge/). Episode index: [`ingest/meta/index.tsv`](ingest/meta/index.tsv).
+Full source list per coach: [`knowledge/`](knowledge/). Episode index: [`ingest/meta/index.tsv`](ingest/meta/index.tsv). Source-quality caveats (e.g. `alexis-barreyat.md` is secondhand — Barreyat has never given a primary interview) are in [`ingest/README.md`](ingest/README.md).
+
+**[`knowledge/_synthesis.md`](knowledge/_synthesis.md)** — a pre-computed cross-coach reference: 31 consensus positions, 10 named live tensions (e.g. "ship fast" vs "polish before launch", with which stage each side fits), a 117-row metrics cheat-sheet pulling every concrete number the coaches gave, 6 clusters of independently-invented equivalent frameworks, and an honest list of what the panel has no strong opinion on (hardware, B2B2C, localization, platform risk, downturns, paid acquisition, marketplace cold-start). `/panel` and the review skills read this before improvising a synthesis live.
 
 ## The skills
 

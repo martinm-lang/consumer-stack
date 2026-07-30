@@ -30,7 +30,7 @@ Coaches channel the **publicly stated principles** of real people, distilled fro
 _SKILL_SRC=$(readlink -f "$HOME/.claude/skills/panel/SKILL.md" 2>/dev/null || echo "")
 STACK_DIR=$(cd "$(dirname "${_SKILL_SRC:-.}")/.." && pwd)
 echo "STACK_DIR: $STACK_DIR"
-echo "COACHES:"; ls "$STACK_DIR/knowledge" 2>/dev/null | sed 's/\.md$//'
+echo "COACHES:"; ls "$STACK_DIR/knowledge" 2>/dev/null | sed 's/\.md$//' | grep -v '^_'
 _BRANCH=$(git branch --show-current 2>/dev/null || echo "none")
 echo "BRANCH: $_BRANCH"
 [ -f README.md ] && echo "README: present"
@@ -72,9 +72,12 @@ For each seated coach, output:
 
 ## Step 4 — Panel synthesis
 
-1. **Where the panel agrees** — the findings multiple playbooks converge on. These are your real problems.
-2. **Where the panel disagrees** — name the tension explicitly (e.g. Bier's "ship the loop now" vs Systrom's "strip features first") and say which side fits this product's stage, and why.
-3. **Top 3 moves this week** — ranked, each attributed to the coach whose framework demands it.
+Read `$STACK_DIR/knowledge/_synthesis.md` first — it's a pre-built reference of cross-coach consensus, live tensions, a metrics cheat-sheet, and named coverage gaps. Use it to write the synthesis fast and consistently instead of re-deriving it live; only reason from scratch where this specific product surfaces something the synthesis file doesn't cover.
+
+1. **Where the panel agrees** — pull the relevant Consensus positions from `_synthesis.md` that this product actually hits, grounded in what you observed in Step 1. These are the real problems.
+2. **Where the panel disagrees** — pull the relevant Live tension(s) from `_synthesis.md` verbatim (position A / position B / when it matters), then say which side fits this specific product's stage and why.
+3. **Top 3 moves this week** — ranked, each attributed to the coach whose framework demands it. Cross-check any numeric target against the Metrics cheat-sheet in `_synthesis.md` before stating it.
+4. **What the panel can't tell you** — if the product's core question falls in a Coverage gap named in `_synthesis.md` (hardware, B2B2C, localization, platform risk, downturns, paid acquisition, marketplace cold-start), say so plainly instead of forcing an opinion the bench doesn't have.
 
 ## Step 5 — Follow-up
 

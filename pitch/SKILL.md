@@ -33,6 +33,7 @@ echo "STACK_DIR: $STACK_DIR"
 ```
 
 ## The panel
+Also check `$STACK_DIR/knowledge/_synthesis.md` for pre-computed cross-coach consensus, live tensions and the metrics cheat-sheet — ground any numeric claim in it before stating a threshold, and reuse a named tension instead of re-deriving one.
 
 Read from `$STACK_DIR/knowledge/`: `a16z-consumer.md`, `yc-growth.md`, `mark-pincus.md` (says consumer isn't investible — make the founder survive that argument), `peter-thiel.md` (monopoly test, counterfactual meaning), `brian-chesky.md` (consumer AI thesis), `daniel-ek.md` (business model rigor). Seat `nikita-bier.md` when traction claims need a bullshit detector, `michael-skok.md` when the value proposition itself is shaky.
 

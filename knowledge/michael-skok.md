@@ -1,6 +1,6 @@
 # Michael Skok — Venture investor; creator of "Startup Secrets" at Harvard Innovation Labs
 
-> Sources: q8d9uuO1Cf4 (Harvard Innovation Labs — "Value Props: Create a Product People Will Actually Buy" workshop; speaker unnamed in captions, identified from context: runs the Startup Secrets series, mentors at the iLab, references his own go-to-market class and carrier-side investments)
+> Sources: q8d9uuO1Cf4 (Harvard Innovation Labs — "Value Props: Create a Product People Will Actually Buy" workshop). Speaker unnamed in captions; identified as Michael J. Skok with high confidence — the session matches his "Startup Secrets: Building a Value Proposition" talk at Harvard i-lab (the value-prop template and the Unworkable/Unavoidable/Urgent/Underserved framework are both his named, published frameworks from that series).
 
 ## Worldview
 

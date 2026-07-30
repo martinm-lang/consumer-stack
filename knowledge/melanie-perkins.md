@@ -1,7 +1,7 @@
 # Melanie Perkins — Co-founder & CEO, Canva
 
-> Sources: -LywX3T5Scc (Lenny's Podcast), EbiGblxQmIE (SXSW Sydney keynote), QIRLeqKxy8c (Goldman Sachs Private Company Conference)
-> Note: a fourth planned source (nyc0UiuUfPo, New Economies) turned out to feature co-founder Cameron Adams, not Perkins, and was used for his playbook instead.
+> Sources: -LywX3T5Scc (Lenny's Podcast), EbiGblxQmIE (SXSW Sydney keynote), QIRLeqKxy8c (Goldman Sachs Private Company Conference), GUjt0iRJ3eo (Founder Films documentary — Perkins, Cliff Obrecht and Cameron Adams all speak; Bill Tai and Atlassian's Scott Farquhar appear as outside voices, excluded)
+> Note: a separately planned source (nyc0UiuUfPo, New Economies) turned out to feature co-founder Cameron Adams, not Perkins, and was used for his playbook instead.
 
 ## Worldview
 
@@ -10,7 +10,8 @@
 - Product has exactly two parts: building toward the mission, and listening to the community and building what they ask for. Both run permanently and in parallel.
 - Canva deliberately sits "smack bang in the middle" of the creativity/productivity Venn diagram — refusing to make customers choose between the two suites is the strategic position.
 - Software historically made people feel dumb; people spent their lives believing they weren't creative. The product's job is to make people feel empowered and confident within minutes — she treats emotional confidence as a design requirement, not a nice-to-have.
-- Getting rich is not a goal, it's a means to an end. The two-step plan (build one of the world's most valuable companies; do the most good we can do) is operational, not decorative — and step two fuels step one (education users become workplace users; mission-driven people join and stay).
+- Getting rich is not a goal, it's a means to an end. The two-step plan (build one of the world's most valuable companies; do the most good we can do) is operational, not decorative — and step two fuels step one (education users become workplace users; mission-driven people join and stay). The origin is concrete: backpacking in India, she met a man her own age earning $1/day in a computer shop and decided that if he could make a dollar with all his effort, she could "potentially make a really big company" and owed it to redistribute the gap. [GUjt0iRJ3eo]
+- Founders don't need to be well-rounded individually — the team does. She frames herself, Cliff Obrecht and Cameron Adams as three distinct, non-overlapping jigsaw pieces (dreamer / practical operator / designer-communicator) whose friction is a feature: "two big bulls butting heads" during disagreements is the cost of having genuine complementary conviction, not a sign the partnership is broken.
 
 ## Frameworks
 
@@ -34,6 +35,12 @@ More than a million community requests a year get tallied, broken down, and deli
 
 ### Cupcake and icing
 The core product (cupcake) stays identical for every segment — student, small business, enterprise. Each segment gets only a thin icing layer (e.g. IT admin for enterprise). This is why kid-driven feedback improves the enterprise product and why serving new segments doesn't fork the platform.
+
+### Just-in-time learning
+You cannot know everything in advance as a founder, so don't try — learn precisely what you need, exactly when you need it (or just after). The COO role itself was defined this way ("I'm not actually too sure what a COO is supposed to do... run to the biggest fire"). The corollary discipline: if you're doing the same thing twice, you already made a mistake — each stage of scale (10 people, 100, 1,000+) requires re-learning the job from scratch, and comfort with a task is itself the signal you're about to be handed a harder one.
+
+### The frozen-platform bet
+When the underlying technology cannot scale, the fix is a full-stop rewrite — and it is worse than anyone plans for. Canva froze nearly all new feature work for two years to rebuild write-once-ship-everywhere across web/iOS/Android, stalling growth and nearly running out of cash while competitors copied the frozen product. Her own retrospective: never do a complete platform rewrite again if it can possibly be avoided; if you must, treat it as "building the foundations of a city" — unglamorous, invisible progress that has to be sold internally as achievement, because the alternative (a team with nothing shippable for two years) corrodes morale and co-founder relationships under financial pressure.
 
 ### Bottom-up freemium engine
 Deep investment in a genuinely valuable free product → people confidently share it → Pro → Teams → Enterprise, in that order, waiting years before formally catering to enterprise. Virality is engineered, not hoped for: certificates at 5/10/100 designs, playful launch moments (the "glow up portal"), fun as workplace differentiator (confetti on the C key). ~90% of growth organic.
@@ -91,3 +98,4 @@ Deep investment in a genuinely valuable free product → people confidently shar
   - "Software made people feel dumb and stupid, which seemed absurd." [EbiGblxQmIE]
   - "We were trying to do AI before AI was actually a thing." [-LywX3T5Scc]
   - "Who needs billions of dollars? I don't know that you can do much with billions of dollars." [QIRLeqKxy8c]
+- "If I don't feel small and inadequate before it, it's not big enough." [GUjt0iRJ3eo]

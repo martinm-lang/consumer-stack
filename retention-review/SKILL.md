@@ -33,6 +33,7 @@ echo "STACK_DIR: $STACK_DIR"
 ```
 
 ## The bench
+Also check `$STACK_DIR/knowledge/_synthesis.md` for pre-computed cross-coach consensus, live tensions and the metrics cheat-sheet — ground any numeric claim in it before stating a threshold, and reuse a named tension instead of re-deriving one.
 
 Read from `$STACK_DIR/knowledge/`: `nir-eyal.md` (habit loops), `luis-von-ahn.md` (streaks, notification discipline), `daniel-ek.md` (freemium, dependability), `nikita-bier.md` (kill criteria, real engagement signals), `david-lieb.md` (cohort truth, frequency × value). Seat `antoine-martin.md` too if the product is social.
 

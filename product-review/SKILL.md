@@ -33,6 +33,7 @@ echo "STACK_DIR: $STACK_DIR"
 ```
 
 ## The bench
+Also check `$STACK_DIR/knowledge/_synthesis.md` for pre-computed cross-coach consensus, live tensions and the metrics cheat-sheet — ground any numeric claim in it before stating a threshold, and reuse a named tension instead of re-deriving one.
 
 Read from `$STACK_DIR/knowledge/`: `brian-chesky.md` (10/11-star exercise), `kevin-systrom.md` (simplicity, solve-your-own-problem), `dylan-field.md` (craft & quality as moat), `evan-spiegel.md` (design-led invention), `julien-martin.md` (design that hits different). Seat `alexis-barreyat.md` for authenticity-positioned products, `will-ahmed.md` for hardware.
 
