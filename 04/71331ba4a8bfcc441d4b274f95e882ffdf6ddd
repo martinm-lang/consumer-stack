@@ -1,0 +1,19 @@
+VERSION
+  s_620c473eb0fa6d::t_f236e4a3c4dd45 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "0471331ba4a8bfcc441d4b274f95e882ffdf6ddd",
+  "prompts": {},
+  "sessions": {
+    "s_620c473eb0fa6d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af22d70a-b2f6-450c-81c5-aa1211200f8c",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "martinm-lang <martin.manne76@gmail.com>"
+    }
+  }
+}
