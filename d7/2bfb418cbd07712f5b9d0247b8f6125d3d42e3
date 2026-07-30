@@ -1,0 +1,54 @@
+consumer-stack/SKILL.md
+  s_620c473eb0fa6d::t_5b14b4b9c55947 29
+knowledge/melanie-perkins.md
+  s_620c473eb0fa6d::t_a390f2f3409443 3-4
+  s_620c473eb0fa6d::t_71c061bf6e6aec 101
+  s_620c473eb0fa6d::t_c8c09feb0f00ba 13-14
+  s_620c473eb0fa6d::t_c9930451a37946 39-44
+knowledge/_synthesis.md
+  s_620c473eb0fa6d::t_4aabeda84cf6b8 1-23,25-243
+  s_620c473eb0fa6d::t_252827dd077373 24
+panel/SKILL.md
+  s_620c473eb0fa6d::t_d0b82fbf8b1549 75-80
+  s_620c473eb0fa6d::t_70a9a61f5b8095 33
+README.md
+  s_620c473eb0fa6d::t_d7bf92315e74ee 59
+  s_620c473eb0fa6d::t_6ed0ec2d341e5a 57
+  s_620c473eb0fa6d::t_e624ef17522844 58
+knowledge/michael-skok.md
+  s_620c473eb0fa6d::t_c39ed406e43a78 3
+ingest/README.md
+  s_620c473eb0fa6d::t_2f69a43e591189 19
+coach/SKILL.md
+  s_620c473eb0fa6d::t_12824552e60f0d 32
+CLAUDE.md
+  s_620c473eb0fa6d::t_ed9629fdb20c4d 9
+growth-review/SKILL.md
+  s_620c473eb0fa6d::t_f76ed0a51bca04 37
+onboarding-review/SKILL.md
+  s_620c473eb0fa6d::t_470766ea816eb3 36
+pitch/SKILL.md
+  s_620c473eb0fa6d::t_91156142fefeb1 36
+product-review/SKILL.md
+  s_620c473eb0fa6d::t_44147ed616c368 36
+retention-review/SKILL.md
+  s_620c473eb0fa6d::t_42557c2a0f8ac3 36
+wedge/SKILL.md
+  s_620c473eb0fa6d::t_9c86a94e56005a 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.16",
+  "base_commit_sha": "d72bfb418cbd07712f5b9d0247b8f6125d3d42e3",
+  "prompts": {},
+  "sessions": {
+    "s_620c473eb0fa6d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "af22d70a-b2f6-450c-81c5-aa1211200f8c",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "martinm-lang <martin.manne76@gmail.com>"
+    }
+  }
+}
