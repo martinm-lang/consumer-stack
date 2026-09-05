@@ -54,7 +54,15 @@ Restart Claude Code. Type `/panel`.
 | Y Combinator | — | First 10 customers, growth channels, founder mindsets |
 | a16z consumer | — | Consumer AI landscape, new growth loops, moats |
 
-Full source list per coach: [`knowledge/`](knowledge/). Episode index: [`ingest/meta/index.tsv`](ingest/meta/index.tsv). Source-quality caveats (e.g. `alexis-barreyat.md` is secondhand — Barreyat has never given a primary interview) are in [`ingest/README.md`](ingest/README.md).
+Full source list per coach: [`knowledge/`](knowledge/). Episode index: [`ingest/meta/index.tsv`](ingest/meta/index.tsv) (69 episodes). Source-quality caveats (e.g. `alexis-barreyat.md` is secondhand — Barreyat has never given a primary interview) are in [`ingest/README.md`](ingest/README.md).
+
+## The distribution playbook
+
+**[`playbook/`](playbook/)** is a second, separate layer: **reconstructed growth machines**, one file per *company*, built from web research plus primary interview transcripts. Where `knowledge/` answers *how these people think*, `playbook/` answers *what these companies actually did* — with every claim carrying an evidence label ([Confirmed] / [Founder-reported] / [Interpretation] / [Transferable]), a Sources section, and an honest record of what couldn't be sourced.
+
+Tier A is complete: **Fizz, Venmo, Partiful, Saturn, tbh & Gas, Tinder, Zenly, Snapchat, Meerkat & Houseparty, Airbuds.** On top of the cases sit [`LAWS.md`](playbook/LAWS.md) (12 cross-company laws, each with a counterexample), [`LOOPS.md`](playbook/LOOPS.md) (the viral loop library), [`SATURATION.md`](playbook/SATURATION.md) (a six-state ladder for telling what stage a market is in), [`MATRICES.md`](playbook/MATRICES.md), [`SOURCES.md`](playbook/SOURCES.md) and [`RESEARCH_GAPS.md`](playbook/RESEARCH_GAPS.md).
+
+The two layers are governed by different rules and must not be mixed — see [`playbook/RULES.md`](playbook/RULES.md). `/growth-review` reads both.
 
 **[`knowledge/_synthesis.md`](knowledge/_synthesis.md)** — a pre-computed cross-coach reference: 31 consensus positions, 10 named live tensions (e.g. "ship fast" vs "polish before launch", with which stage each side fits), a 117-row metrics cheat-sheet pulling every concrete number the coaches gave, 6 clusters of independently-invented equivalent frameworks, and an honest list of what the panel has no strong opinion on (hardware, B2B2C, localization, platform risk, downturns, paid acquisition, marketplace cold-start). `/panel` and the review skills read this before improvising a synthesis live.
 
@@ -67,7 +75,7 @@ Full source list per coach: [`knowledge/`](knowledge/). Episode index: [`ingest/
 | `/wedge` | **Idea stage** | You have an idea, not a product. YC-style interrogation: who is it for, what's the wedge, how do you get the first 10 users. |
 | `/onboarding-review` | **Activation** | Time-to-value audit. Bier's minutes-not-days bar, Lieb's toothbrush test, Perkins' accessibility lens. |
 | `/retention-review` | **Habit & retention** | Eyal's Hooked model, von Ahn's streak mechanics, Ek's freemium logic applied to your retention curves. |
-| `/growth-review` | **Distribution** | Bier's virality playbook, YC's channel frameworks, Zhu's cold-start strategies, Pincus' metrics discipline. |
+| `/growth-review` | **Distribution** | Bier's virality playbook, YC's channel frameworks, Zhu's cold-start strategies, Pincus' metrics discipline — plus the sourced case layer in [`playbook/`](playbook/). |
 | `/product-review` | **Craft & quality** | Chesky's 10-star exercise, Systrom's simplicity test, Field's quality-as-moat, Julien Martin's design bar. |
 | `/pitch` | **Investor simulation** | Pitch the panel as investors. a16z and YC lenses, real objections, scored verdict. |
 
