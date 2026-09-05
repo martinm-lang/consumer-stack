@@ -1,0 +1,94 @@
+playbook/NETWORK_TIERS.md
+  s_39dc96a5af4fa6::t_859325a021e96d 1-184
+playbook/cases/venmo.md
+  s_39dc96a5af4fa6::t_fa5379e454f244 1-208
+playbook/UTILITIES.md
+  s_39dc96a5af4fa6::t_2b17706101479c 30-57
+  s_39dc96a5af4fa6::t_35799d313c2a43 1-29,58-249
+playbook/cases/partiful.md
+  s_39dc96a5af4fa6::t_0d3bdaa286b3bc 1-198
+CLAUDE.md
+  s_39dc96a5af4fa6::t_33970bfcd73d73 10,16,20
+playbook/cases/saturn.md
+  s_39dc96a5af4fa6::t_ea026e7d040faa 1-233
+playbook/cases/zenly.md
+  s_39dc96a5af4fa6::t_5b14f40239b5b5 27,184-186
+  s_39dc96a5af4fa6::t_ef79583b66c230 1-26,28-183
+playbook/cases/meerkat-houseparty.md
+  s_39dc96a5af4fa6::t_811aeee4777b66 1-108
+playbook/ZIMO_METRICS.md
+  s_39dc96a5af4fa6::t_2786c78d9bd3e5 1-162
+playbook/SOURCES.md
+  s_39dc96a5af4fa6::t_800d76dcc14aea 1-123
+VERSION
+  s_39dc96a5af4fa6::t_2b17706101479c 1
+playbook/LAWS.md
+  s_39dc96a5af4fa6::t_d13aacf2a5c945 1-12,14,19,33,73-110,119-426
+  s_39dc96a5af4fa6::t_3b125381d698bf 13,15-18,20-32,34-72,111-118
+playbook/cases/tinder.md
+  s_39dc96a5af4fa6::t_309f4e9ca7e027 1-116
+playbook/RULES.md
+  s_39dc96a5af4fa6::t_97d6eea7f6765c 86-87,90-94
+  s_39dc96a5af4fa6::t_e16dadcb76e7d8 1-45,65-78,83-85,88-89
+  s_39dc96a5af4fa6::t_f87cc9fc6e26a9 46-64
+  s_39dc96a5af4fa6::t_2b17706101479c 79-82
+README.md
+  s_39dc96a5af4fa6::t_e8d2a8a37d07a0 57-65,78
+playbook/cases/fizz.md
+  s_39dc96a5af4fa6::t_150539563a10d2 1-239
+growth-review/SKILL.md
+  s_39dc96a5af4fa6::t_b325c732279a00 50
+  s_39dc96a5af4fa6::t_33970bfcd73d73 39-40,52,61
+  s_39dc96a5af4fa6::t_b95f030fcacaf4 49,51
+ingest/meta/index.tsv
+  s_39dc96a5af4fa6::t_13623581617ff4 50-69
+playbook/README.md
+  s_39dc96a5af4fa6::t_b95f030fcacaf4 11-13,16-17,43,46-52,54-57,59,71-73
+  s_39dc96a5af4fa6::t_884c761e3e7d12 90-100
+  s_39dc96a5af4fa6::t_2b17706101479c 18,24,44,64-70,75
+  s_39dc96a5af4fa6::t_b64662a421b7e8 1-10,14-15,19-23,25-42,45,53,58,60-63,74,76-89,101-102
+playbook/PREDECESSORS.md
+  s_39dc96a5af4fa6::t_3fa3107f27501f 1-152
+playbook/MATRICES.md
+  s_39dc96a5af4fa6::t_4d4f9b60f1052b 1-6,34-132
+  s_39dc96a5af4fa6::t_f87cc9fc6e26a9 7-33
+playbook/RESEARCH_GAPS.md
+  s_39dc96a5af4fa6::t_e0b9c944d35726 94-99
+  s_39dc96a5af4fa6::t_61ead7320ce422 1-46,48,68-93,100-133
+  s_39dc96a5af4fa6::t_884c761e3e7d12 47,49-67
+playbook/ZIMO.md
+  s_39dc96a5af4fa6::t_393e917bf133b2 1-5,23-24,32,38,40,44,46,52,56,62,66-69,96,102,106,109,111,114,116,130,161,164,166,195,207,218,221,224,247,255-256,263,270,274,277,283,286,290,292-293,297,299-300,303-305,329-331,346-347,351,361-363
+  s_39dc96a5af4fa6::t_037d722993951d 6-15,19-22,25-31,33-37,39,41-43,45,47-51,53-55,57-61,63-65,128-129,131-160,175,184-194,196-206,208-217,219-220,222-223,225-228,251-254,257-262,264-269,271-273,275-276,278-282,284-285,287-289,291,294-296,298,301-302,306-328,332-345,348-350,352-360,364-365
+  s_39dc96a5af4fa6::t_ba7c2b9f30a097 16-18,70-95,97-101,103-105,107-108,110,112-113,115,117-127,162-163,165,167-174,176-183,229-246,248-250,366-380
+playbook/LOOPS.md
+  s_39dc96a5af4fa6::t_67265eca8b9d5f 1-248
+playbook/cases/tbh-gas.md
+  s_39dc96a5af4fa6::t_c7b975605ccf84 1-236
+playbook/TEMPLATE_CASE.md
+  s_39dc96a5af4fa6::t_fac2fa901fc5ce 1-53,63-72
+  s_39dc96a5af4fa6::t_f87cc9fc6e26a9 54-62
+playbook/cases/airbuds.md
+  s_39dc96a5af4fa6::t_8bf792870eba67 1-134
+playbook/cases/snapchat.md
+  s_39dc96a5af4fa6::t_0842002e2f4671 1-136
+playbook/SATURATION.md
+  s_39dc96a5af4fa6::t_0a1bbda576f764 1-213
+ingest/video_ids.txt
+  s_39dc96a5af4fa6::t_13623581617ff4 50-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "b58cc67710454f5ef4e108188e83bfd33a6ac2b2",
+  "prompts": {},
+  "sessions": {
+    "s_39dc96a5af4fa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "034d0aa3-027f-4406-b835-9c1c403959a7",
+        "model": "claude-opus-5"
+      },
+      "human_author": "martinm-lang <martin.manne76@gmail.com>"
+    }
+  }
+}
